@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Oishii Recipe</string>
+    <string name="api_key">b1a920a490eb46f9ac22a5a169f76ff2</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+
+        <item>marinade</item>
+        <item>finger food</item>
+        <item>snack</item>
+        <item>drink</item>
+
+    </string-array>
+</resources>
